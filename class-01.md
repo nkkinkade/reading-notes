@@ -3,7 +3,7 @@
 ## HTML basics
 * Elements describe the structure of a page using tags
 * Each element has an opening and closing tag
-  * Tags look like this: <p></p>
+  * Tags look like this: < p >< /p >
   * Content goes between the opening and closing tags
 * Attributes provide additional information about contents of an element and is made up of two parts:
   * Name of the attribute
