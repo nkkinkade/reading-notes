@@ -15,5 +15,6 @@ _This is my main journal page for my Code 201 class_
 * [Reading Assignment 11](/class-11.md)
 * [Reading Assignment 12](/class-12.md)
 * [Reading Assignment 13](/class-13.md)
-* [Reading Assignment 14](/class-14.md)
+* [Reading Assignment 14a](/class-14a.md)
+* [Reading Assignment 14b](/class-14b.md)
 * [Reading Assignment 15](/class-15.md)
