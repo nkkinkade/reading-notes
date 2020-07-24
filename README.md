@@ -22,4 +22,10 @@ _This is my main journal page for my DeltaV Code classes_
 
 ## Code 301 - Intermediate Software Development
 
+* [Reading Assignment 1](/301/class-01.md)
+* [Reading Assignment 2](/301/class-02.md)
+* [Reading Assignment 3](/301/class-03.md)
+* [Reading Assignment 4](/301/class-04.md)
+* [Reading Assignment 5](/301/class-05.md)
+
 ## Code 401 - Advanced Software Development
