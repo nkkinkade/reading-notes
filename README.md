@@ -28,5 +28,6 @@ _This is my main journal page for my DeltaV Code classes_
 * [Reading Assignment 4](/301/class-04.md)
 * [Reading Assignment 5](/301/class-05.md)
 * [Reading Assignment 6](/301/class-06.md)
+* [Reading Assignment 7](/301/class-07.md)
 
 ## Code 401 - Advanced Software Development
