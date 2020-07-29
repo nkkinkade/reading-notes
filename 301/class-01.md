@@ -1,20 +1,19 @@
-# Read: 01 - Introductory HTML and JavaScript
+# Read: 01 - SMACSS and Responsive Web Design
 
-## HTML basics
-* Elements describe the structure of a page using tags
-* Each element has an opening and closing tag
-  * Tags look like this: < p >< /p >
-  * Content goes between the opening and closing tags
-* Attributes provide additional information about contents of an element and is made up of two parts:
-  * Name of the attribute
-  * Value of the attribute
-* To recall a specific element using CSS you can use an ID attribute
-* Class attributes let you change the style of every member of a class using CSS
-* HTML5 allows for less cluttered code, of note the div tag has become obsolete
-* Wireframes help visualize how your webpage should look
+## Responsive Web Design
+* Responsive web design is the practice of building a website suitable to work on every device and every screen size, no matter how large or small, mobile or desktop
+* Responsive web design is focused around providing an intuitive and gratifying experience for everyone
+* Responsive web design is broken down into three main components:
+  * Flexible layouts is the practice of building the layout of a website with a flexible grid, capable of dynamically resizing to any width
+  * Media queries provide the ability to specify different styles for individual browser and device circumstances, the width of the viewport or device orientation
+  * Flexible media
 
-## JavaScript
-* JavaScript is a text language like HTML and CSS
-* It uses scripts to tell a page what to do when a certain action is performed
-* The script element is used in HTML to tell the bowser to load JavaScript files
-* JavaScript can be written into HTML, but it's best to keep it on it's own file
+## Floats
+* Float is a CSS positioning property
+* Page elements with the CSS float property applied to them are just like the images in the print layout where the text flows around them
+* Floats can be assigned in CSS like this - float: left;
+
+## SMACSS
+* SMACSS stands for Scalable and Modular Architecture for CSS
+* SMACSS is a way to examine your design process and as a way to fit those rigid frameworks into a flexible thought process
+* SMACSS is an attempt to document a consistent approach to site development when using CSS
